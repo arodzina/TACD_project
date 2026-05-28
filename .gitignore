@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+bpr_sensitivity.png
+data_preparation.ipynb
+ncf_results.json
+bpr_sensitivity.png
+data_preparation.ipynb
+ncf_results.json
